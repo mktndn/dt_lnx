@@ -1,0 +1,8 @@
+#!/bin/bash
+
+./configure 	\
+	--prefix=${HOME}	\
+	--enable-python3interp	\
+	--enable-cscope	\
+	--enable-multibyte	\
+	--enable-gui=auto

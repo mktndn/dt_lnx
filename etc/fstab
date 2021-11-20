@@ -1,0 +1,4 @@
+fs-deb:/share/home/skimura      /home/skimura/nh        nfs     auto,rsize=16384,wsize=16384,soft,user,intr   0       0
+fs-deb:/share/media     /home/skimura/media     nfs     auto,rsize=16384,wsize=16384,soft,user,intr   0       0        
+fs-deb:/share/winhome   /home/skimura/winhome   nfs     auto,rsize=16384,wsize=16384,soft,user,intr   0       0        
+ 

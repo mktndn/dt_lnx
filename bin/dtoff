@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ssh -t skimura@host-deb "/home/skimura/bin/lin_poff"
+sudo systemctl poweroff
